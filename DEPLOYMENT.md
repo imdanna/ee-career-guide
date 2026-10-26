@@ -9,11 +9,11 @@
 - 공개 주소: https://ee-career-guide.onrender.com
 - 관리 화면: https://dashboard.render.com/static/srv-dbfh0b7b9u1s73ctr3b0
 - Render 서비스 ID: `srv-dbfh0b7b9u1s73ctr3b0`
-- 배포 ID: `dep-dbfh0bnb9u1s73ctr540`
-- 배포 원본 커밋: `dfaec20e48c4da28546e23742bdc2a0af822f59f`
+- 배포 ID: `dep-dbfhlq2jnfac73ce8rf0`
+- 배포 원본 커밋: `54042e748ec4772c0f884e611ae6d22691094dba`
 - 확인일: 2026년 10월 26일
 
-Render의 배포 상태가 live임을 확인했고, 공개 사이트에서 수정된 제목·삭제 문구·학년 필터·검색·주제별 10분 발표안 동작을 확인했습니다. 게시된 정적 파일 5개의 내용이 로컬 완성본과 일치합니다.
+세 도입 질문의 제목 수정을 반영한 Render 배포 상태가 live임을 확인했고, 공개 사이트에서 수정된 제목·삭제 문구·학년 필터·검색·주제별 10분 발표안 동작을 확인했습니다. 게시된 정적 파일 5개의 내용이 로컬 완성본과 일치합니다.
 
 ChatGPT의 GitHub 플러그인과 Render의 GitHub 원본 접근 연결은 별개입니다. ChatGPT 플러그인 없이도 배포 작업을 계속할 수 있지만, Render가 원본을 가져올 방법은 필요합니다.
 
